@@ -14,10 +14,6 @@ import (
 //
 // Standard output
 // Jira output
-//
-// Converted to:
-// My Local
-// UTC
 
 var (
 	timezone = ""
